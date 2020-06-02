@@ -11,10 +11,10 @@ Run the program using:
 The C program will compile.You need to use a bitmap image to achieve the desired result.
 
 
-<code>./filter -r image.bmp reflected.bmp</code> - Reflect
-<code>./filter -g image.bmp reflected.bmp</code> - Grayscale
-<code>./filter -b image.bmp reflected.bmp</code> - Blur
-<code>./filter -s image.bmp reflected.bmp</code> - Sepia
+<code>./filter -r image.bmp reflected.bmp</code> - Reflect <br>
+<code>./filter -g image.bmp reflected.bmp</code> - Grayscale <br>
+<code>./filter -b image.bmp reflected.bmp</code> - Blur <br>
+<code>./filter -s image.bmp reflected.bmp</code> - Sepia <br>
 
 
 
